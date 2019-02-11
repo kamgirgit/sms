@@ -1,2 +1,2 @@
 # sms
-this is meant to manage the school's data
+It is an App for Student Management System
