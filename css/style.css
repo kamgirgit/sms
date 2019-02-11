@@ -1,0 +1,35 @@
+.admintitle{
+	background-color: #530602;
+    color: #fff;
+    text-align: center;
+    margin: 26px 40px 2px 31px;
+    /*height: 135px; */
+}
+.admintitle  h1{
+	display: inline;
+	line-height: 132px;
+}
+.admintitle h4{
+    display: inline;
+    float: right;
+    margin-left: 10px;
+ }
+ .admintitle h4 a{
+	text-decoration: none;
+	color:white;
+	border: 1px solid transparent;
+	line-height: 1px;
+}
+.admintitle h4 a:hover {
+	border: 1px solid #fff;
+	border-radius: 1px;
+	color:yellow;
+	
+}
+  
+.dashboard{
+	background-color: skyblue;
+	margin: 1px 40px 1px 30px;
+	height: 130px;
+	font-size: 20px; 
+}
